@@ -1,4 +1,4 @@
-## 📈 Evolution of the Project (v1.0 to v2.0)
+## Evolution of the Project (v1.0 to v2.0)
 
 | Feature | v1.0 (Initial) | v2.0 (Professional) |
 | :--- | :--- | :--- |
