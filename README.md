@@ -12,8 +12,7 @@ Ağ güvenliği analizi ve port tarama süreçlerini otomatize eden, Python taba
 Bu aracı hiçbir kurulum yapmadan çalıştırmak için şu iki adımı izlemeniz yeterlidir:
 
 ### 1. İmajı Oluşturun (Build)
-```bash
-docker build -t port-scanner .
+```bash docker build -t port-scanner . ```
 
 2. Taramayı Başlatın (Run)
 ```bash
